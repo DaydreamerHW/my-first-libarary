@@ -13,4 +13,3 @@ class SampleClass {
         echo "Hello World"
     }
 }
-  git remote add origin https://github.com/youraccount/yourproject.git

@@ -6,5 +6,5 @@ class GlobalVars {
     public static final String BUILDER_NAME = "Builder"
     public static final String BUILDER_DESCRIPTION = "A tool to build your project"
     public static final String BUILDER_AUTHOR = "Builder"
-    public static final String BUILDER_AUTHOR_EMAIL = "
+    public static final String BUILDER_AUTHOR_EMAIL = ""
 }

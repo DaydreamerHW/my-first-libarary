@@ -9,7 +9,7 @@ class SampleClass {
         this.age = age + years
     }
 
-    def sayHello() {
-        echo "Hello World"
+    def sayHelloPerson() {
+        echo "Hello World" + this.name
     }
 }
